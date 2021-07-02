@@ -5,4 +5,5 @@ To do list:
 4. Data Exploration
 5. Feature Engineering
 6. Predictive Modeling
-7. Data Visualization
+7. Data Visualization...
+8. Model Deployment
